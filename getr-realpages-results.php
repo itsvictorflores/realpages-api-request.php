@@ -7,17 +7,17 @@ $xml_data = '<?xml version="1.0" encoding="UTF-8" standalone="no"?><SOAP-ENV:Env
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <SOAP-ENV:Header>
         <tns:UserAuthInfo xmlns:tns="http://realpage.com/webservices">
-            <tns:UserName>jproverb</tns:UserName>
-            <tns:Password>jproverb0619</tns:Password>
-            <tns:SiteID>4527024</tns:SiteID>
-            <tns:PmcID>2507719</tns:PmcID>
+            <tns:UserName>USER</tns:UserName>
+            <tns:Password>PASSWORD</tns:Password>
+            <tns:SiteID>SITEID</tns:SiteID>
+            <tns:PmcID>PMCID</tns:PmcID>
             <tns:InternalUser></tns:InternalUser>
         </tns:UserAuthInfo>
         <tns:CallBackAuthInfo xmlns:tns="http://realpage.com/webservices">
             <tns:App></tns:App>
             <tns:SessionID></tns:SessionID>
-            <tns:SiteID>4527024</tns:SiteID>
-            <tns:PmcID>2507719</tns:PmcID>
+            <tns:SiteID>SITEID</tns:SiteID>
+            <tns:PmcID>PMCID</tns:PmcID>
             <tns:EncryptionKey></tns:EncryptionKey>
         </tns:CallBackAuthInfo>
     </SOAP-ENV:Header>
